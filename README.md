@@ -11,3 +11,7 @@ alt + 마우스 휠 조정 -> 화면크기 조절
 <img src="https://slzlxn.github.io/img/ph.png" width="400">
 
 >>[더 북](https://thebook.io/)
+-------------------
+ctrl + 0 --> 화면에 맞추기
+ctrl + t --> 사진영역 선택
+ctrl + 1 --> 화면 100%
